@@ -18,7 +18,7 @@ Frameworks & Libraries: Django
 🌐 Connect with Me
 Email: hamrazhakeem100@gmail.com
 LinkedIn: www.linkedin.com/in/hamrazhakeem
-Twitter: https://twitter.com/hamrazhakeem_
+Twitter: (https://twitter.com/hamrazhakeem_)
 Website: 
 
 
