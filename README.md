@@ -10,8 +10,8 @@ I'm currently focused on enhancing my skills in Microservices and exploring new 
 Python Developer at Brototype
 
 🛠️ Skills
-Programming Languages: C, C++, Java, Python
-Frameworks & Libraries: Django
+Programming Languages: C, C++, Java, Python, Javascript
+Frameworks & Libraries: Django, React
 
 🚀 My Projects
 
