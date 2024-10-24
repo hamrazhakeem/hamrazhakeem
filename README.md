@@ -8,11 +8,3 @@ Hi there 👋 I'm Hamraz Hakeem
 
 🛠️ Programming Languages: C, Java, Python, Javascript
 Frameworks & Libraries: Django, React
-
-🌐 Connect with Me
-Email: hamrazhakeem100@gmail.com
-LinkedIn: www.linkedin.com/in/hamrazhakeem
-Twitter: (https://twitter.com/hamrazhakeem_)
-Website: 
-
-
