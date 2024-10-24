@@ -1,4 +1,4 @@
-Hi there 👋 I,m Hamraz Hakeem 
+Hi there 👋 I'm Hamraz Hakeem 
 
 👨‍💻 I'm a Python Django Developer who is so passionate about Web development.
 
