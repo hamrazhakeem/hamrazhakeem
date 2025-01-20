@@ -4,7 +4,7 @@ Hi there 👋 I'm Hamraz Hakeem
 
 🌱 I'm currently focused on enhancing my skills in Microservices and exploring new technologies that can improve the backend. I'm always eager to learn new things and expand my knowledge base.
 
-💼 Python Developer at Brototype
+💼 Attended Brocamp
 
-🛠️ Programming Languages: C, Java, Python, Javascript
+🛠️ Programming Languages: Python, Javascript
 Frameworks & Libraries: Django, React
