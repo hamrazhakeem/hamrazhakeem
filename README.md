@@ -8,7 +8,7 @@
 
 Full Stack Developer specializing in designing and developing scalable web applications using microservices architecture and cloud technologies. Experienced in building end-to-end solutions from backend APIs to responsive frontend interfaces with a strong focus on performance optimization and code quality.
 
-- 🔭 Currently working on **microservice-based applications with Kubernetes**
+- 🔭 Currently working on **scalable, cloud-native applications—including microservices with Kubernetes and other innovative projects**
 - 🌱 Exploring advancements in **cloud-native technologies**
 - 💡 Passionate about creating **secure, scalable, and efficient solutions**
 
