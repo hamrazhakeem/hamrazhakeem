@@ -22,6 +22,7 @@ Full Stack Developer specializing in designing and developing scalable web appli
 ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django Channels](https://img.shields.io/badge/Django%20Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![ORM](https://img.shields.io/badge/ORM-14b8a6?style=for-the-badge&logo=django&logoColor=white)
 
