@@ -6,11 +6,11 @@
 
 ## 💼 Professional Profile
 
-Full Stack Developer specializing in designing and developing scalable web applications using microservices architecture and cloud technologies. Experienced in building end-to-end solutions from backend APIs to responsive frontend interfaces with a strong focus on performance optimization and code quality.
+Full Stack Developer focused on building reliable and scalable web applications. Skilled in developing end-to-end systems with modern frameworks and technologies, blending strong logic with clean, maintainable code across both frontend and backend workflows.
 
-- 🔭 Currently working on **scalable, cloud-native applications—including microservices with Kubernetes and other innovative projects**
-- 🌱 Exploring advancements in **cloud-native technologies**
-- 💡 Passionate about creating **secure, scalable, and efficient solutions**
+- 🔭 Currently contributing in a **data-focused domain**, building features, integrating internal tools.
+- 🌱 Actively exploring **data workflows, system design, and API development**
+- 💡 Driven by a passion for solving real-world problems with **efficient and practical solutions**
 
 ## 🛠️ Technical Expertise
 
