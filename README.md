@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Hamraz Hakeem
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Microservices+Architect;Cloud+Infrastructure+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;" alt="Typing SVG" />
 </div>
 
 ## 💼 Professional Profile
