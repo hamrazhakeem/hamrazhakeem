@@ -8,7 +8,7 @@
 
 Full Stack Developer focused on building reliable and scalable web applications. Skilled in developing end-to-end systems with modern frameworks and technologies, blending strong logic with clean, maintainable code across both frontend and backend workflows.
 
-- 🔭 Currently contributing in a **data-focused domain**, building features, integrating internal tools.
+- 🔭 Currently developing web applications in a **data-focused domain**, building features, integrating internal tools.
 - 🌱 Actively exploring **data workflows, system design, and API development**
 - 💡 Driven by a passion for solving real-world problems with **efficient and practical solutions**
 
