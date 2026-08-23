@@ -79,14 +79,6 @@ Full Stack Developer focused on building reliable and scalable web applications.
 
 </div>
 
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamrazhakeem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hamrazhakeem&label=Profile%20visits&color=0e75b6&style=flat" alt="Profile Views" />
   
