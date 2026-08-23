@@ -82,7 +82,7 @@ Full Stack Developer focused on building reliable and scalable web applications.
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamrazhakeem&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamrazhakeem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
