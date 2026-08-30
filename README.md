@@ -8,7 +8,7 @@
 
 Full Stack Developer focused on building reliable and scalable web applications. Skilled in developing end-to-end systems with modern frameworks and technologies, blending strong logic with clean, maintainable code across both frontend and backend workflows.
 
-- 🔭 Currently own DataBeat's in-house ETL platform as a Full Stack Developer & Product Owner — scaling integrations and leading application security remediation efforts
+- 🔭 Full Stack Developer with hands-on experience scaling data platforms, securing production applications, and driving system architecture decisions
 - 🌱 Actively exploring **system design, cloud architecture, and AI-assisted development workflows**
 - 💡 Driven by a passion for solving real-world problems with **efficient and practical solutions**
 
